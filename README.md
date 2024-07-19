@@ -9,9 +9,6 @@ This is a simple web application that generates random images.
 - Simple and user-friendly interface
 - Responsive design
 
-## Demo
-
-Check out the live demo [here](https://yourusername.github.io/random-image-generator).
 
 ## Installation
 
@@ -38,9 +35,6 @@ Check out the live demo [here](https://yourusername.github.io/random-image-gener
 - CSS
 - JavaScript
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -48,5 +42,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-If you have any questions, feel free to reach out to me at your.email@example.com.
+If you have any questions, feel free to reach out to me at sc3617378@gmail.com.
 
